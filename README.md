@@ -2,6 +2,8 @@
 This is a fork of an open-source textbook and course materials
     for an introductory programming course using the Python programming language.
 
+I have made a change.
+
 Phy 225 students should create a personal fork of this repository
     on GitHub and work on the assignments there. "Fork" should be an option on the top right of this page. The default options provided don't need to be changed. Then "create fork" at the bottom of the page.
 
