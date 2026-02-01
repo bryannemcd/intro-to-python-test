@@ -9,6 +9,8 @@ These instructions will not automatiaclly once you fork the repository, but in y
 
 To open in Github Codespaces, click the green "Code" button above, select the "Codespaces" tab and either create a new Codespace or open an existing one.
 
+Each chapter (subdirectories starting with numerals) contain README files with due dates and an indication of whether the chapter is ready for 225.
+
 # An Introduction to Python and Programming
 
 This project is a *thorough* introductory course
